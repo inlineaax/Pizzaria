@@ -1,2 +1,2 @@
 # Pizzaria
-Programa de entrega
+Programa de organização de contatos e entregas para pizzaria
